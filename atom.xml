@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fangs520.github.io</id>
     <title>不知所措的新</title>
-    <updated>2020-12-27T06:32:45.814Z</updated>
+    <updated>2021-02-19T14:29:41.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fangs520.github.io"/>
     <link rel="self" href="https://fangs520.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://fangs520.github.io/images/avatar.png</logo>
     <icon>https://fangs520.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 不知所措的新</rights>
+    <rights>All rights reserved 2021, 不知所措的新</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://fangs520.github.io/hello-gridea/</id>
